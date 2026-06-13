@@ -103,4 +103,4 @@ This program is free software, released under the [GNU General Public License v3
 
 ## Generated with
 
-This code was generated with [Claude Code](https://claude.ai/code) (Sonnet 4.8).
+This code was generated with [Claude Code](https://claude.ai/code) (Sonnet 4.6).
