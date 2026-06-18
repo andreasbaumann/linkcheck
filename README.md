@@ -4,8 +4,6 @@ A command-line website link checker and crawler written in Java.
 
 Given a starting URL, `linkcheck` fetches `robots.txt`, discovers URLs via sitemaps, and checks every link for broken responses. It exits with code `2` if any broken links are found, making it suitable for CI pipelines.
 
-> Generated with [Claude Code](https://claude.ai/code) (claude-sonnet-4-8)
-
 ## Features
 
 - Discovers URLs via `robots.txt` sitemaps (including sitemap indexes)
